@@ -31,6 +31,12 @@ class UnitTest_java11_al2023_cookiecutter_aws_sam_hello_java_powertools_maven(Un
     code_directories = ["HelloWorldFunction"]
 
 
+class UnitTest_java11_al2023_cookiecutter_aws_sam_hello_java_powertools_gradle(UnitTestBase.JavaUnitTestGradleBase):
+    directory = "java11.al2023/hello-pt-gradle"
+    should_test_lint = False
+    code_directories = ["HelloWorldFunction"]
+
+
 class UnitTest_java11_al2023_cookiecutter_aws_sam_eventbridge_hello_java_gradle(UnitTestBase.JavaUnitTestGradleBase):
     directory = "java11.al2023/event-bridge-gradle"
     should_test_lint = False

@@ -2099,7 +2099,7 @@
     },
     {
       "directory": "java11.al2023/hello-pt-maven",
-      "displayName": "Hello World Example Java With Powertools for AWS Lambda",
+      "displayName": "Hello World Example Java With Powertools for AWS Lambda: Maven",
       "dependencyManager": "maven",
       "appTemplate": "hello-world-powertools-java",
       "packageType": "Zip",
@@ -2107,7 +2107,7 @@
     },
     {
       "directory": "java11.al2023/hello-pt-gradle",
-      "displayName": "Hello World Example Java With Powertools for AWS Lambda",
+      "displayName": "Hello World Example Java With Powertools for AWS Lambda: Gradle",
       "dependencyManager": "gradle",
       "appTemplate": "hello-world-powertools-java",
       "packageType": "Zip",
